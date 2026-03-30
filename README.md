@@ -15,7 +15,11 @@ Bu proje, lojistik sektöründeki kargo takip ve operasyonel yönetim süreçler
 * **Algoritma:** Rastgele Seçim (Randomization), Exception Handling
 
 ## 📷 Ekran Görüntüleri
-*(Daha sonra buraya uygulamanın açık halinin bir fotoğrafını ekleyebiliriz)*
+<img width="482" height="609" alt="Ekran görüntüsü 2026-03-30 142832" src="https://github.com/user-attachments/assets/fbb7f838-928e-4581-8dce-589119e41bf9" />
+<img width="435" height="354" alt="Ekran görüntüsü 2026-03-30 143040" src="https://github.com/user-attachments/assets/bf06eb5c-4269-4ca8-9e60-746852f59fe5" />
+<img width="257" height="231" alt="Ekran görüntüsü 2026-03-30 143056" src="https://github.com/user-attachments/assets/ca42e375-36f8-41dc-9152-61a9e16a1ed7" />
+<img width="256" height="188" alt="Ekran görüntüsü 2026-03-30 143120" src="https://github.com/user-attachments/assets/25f09cda-7d02-4a3c-a6cf-89eb366d8643" />
+
 
 ## 💻 Nasıl Çalıştırılır?
 1. Bu repoyu bilgisayarınıza indirin veya klonlayın:
